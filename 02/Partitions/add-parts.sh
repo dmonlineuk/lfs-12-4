@@ -1,3 +1,4 @@
+#! /bin/bash
 sudo parted /dev/sda --script \
     mklabel gpt \
     mkpart biosboot 1MiB 2MiB \

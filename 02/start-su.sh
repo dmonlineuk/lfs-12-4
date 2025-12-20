@@ -1,3 +1,3 @@
-sudo su
+#! /bin/bash
 export LFS=/mnt/lfs
 umask 022
