@@ -1,4 +1,4 @@
-sudo parted /dev/sdX --script \
+sudo parted /dev/sda --script \
     mklabel gpt \
     mkpart biosboot 1MiB 2MiB \
     set 1 bios_grub on \
