@@ -1,0 +1,7 @@
+6a5ac7e89b791aae556de0f745916f7f  bzip2-1.0.8-install_docs-1.patch
+8456c93be5f3cb406431dd8a29f6527b  coreutils-9.9-i18n-1.patch
+0ca4d6bb8d572fbcdb13cb36cd34833e  expect-5.45.4-gcc15-1.patch
+fb47fb9c2732d3c8029bf6be48cd9ea4  glibc-2.42-upstream_fixes-1.patch
+9a5997c3452909b1769918c759eff8a2  glibc-2.42-fhs-1.patch
+f75cca16a38da6caa7d52151f7136895  kbd-2.9.0-backspace-1.patch
+3af8fd8e13cad481eeeaa48be4247445  sysvinit-3.14-consolidated-1.patch
