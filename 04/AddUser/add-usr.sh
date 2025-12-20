@@ -10,4 +10,4 @@ case $(uname -m) in
 esac
 
 echo "Please switch to the lfs user:"
-echo "`su - lfs`"
+echo "'su - lfs'"
