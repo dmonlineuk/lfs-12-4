@@ -1,5 +1,5 @@
 #! /bin/bash
 
-cp /lfs-project/lfs-12.4-52 $LFS/lfs-project/lfs-12.4-52
+cp -r /lfs-project/lfs-12.4-52 $LFS/lfs-project/lfs-12.4-52
 
-chown root:root $LFS/lfs-project/*
+sudo chown root:root $LFS/lfs-project/*
