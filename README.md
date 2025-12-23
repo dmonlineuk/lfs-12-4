@@ -10,7 +10,7 @@ In a terminal:
 ```bash
 # We need git to pull this repo, and optionally gdown for my sources repo in Google Drive (public link provided)
 # We may also want SSH for remote access to our VM
-sudo apt install git gdown openssh-server
+sudo apt install git gdown openssh-server tmux
 
 sudo mkdir -v /lfs-project/
 sudo chmod 0777 /lfs-project/
