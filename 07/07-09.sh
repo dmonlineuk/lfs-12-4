@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd $LFS/sources
+cd /sources
 tar xf perl-5.42.0.tar.xz
 cd perl-5.42.0
 

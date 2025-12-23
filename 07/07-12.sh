@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd $LFS/sources
+cd /sources
 tar xf util-linux-2.41.2.tar.xz
 cd util-linux-2.41.2
 

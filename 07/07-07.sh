@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd $LFS/sources
+cd /sources
 tar xf gettext-0.26.tar.xz
 cd gettext-0.26
 

@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd $LFS/sources
+cd /sources
 tar xf bison-3.8.2.tar.xz
 cd bison-3.8.2
 

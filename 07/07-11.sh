@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd $LFS/sources
+cd /sources
 tar xf texinfo-7.2.tar.xz
 cd texinfo-7.2
 

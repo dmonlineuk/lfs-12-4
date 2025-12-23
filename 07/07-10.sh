@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd $LFS/sources
+cd /sources
 tar xf Python-3.14.2.tar.xz
 cd Python-3.14.2
 
