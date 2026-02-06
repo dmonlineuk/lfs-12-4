@@ -44,5 +44,5 @@ echo "Expected: found ld-linux-x86-64.so.2 at /mnt/lfs/usr/lib/ld-linux-x86-64.s
 
 cd $here
 
-echo "Delete when ready: 'rm -v a.out dummy.log'"
+echo "Delete when ready: 'rm -v $LFS/sources/glibc-2.42/build/a.out $LFS/sources/glibc-2.42/build/dummy.log'"
 echo "If complete, delete 'rm -rf $LFS/sources/glibc-2.42'"
