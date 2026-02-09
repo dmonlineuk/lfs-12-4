@@ -1,8 +1,8 @@
 #! /bin/bash
 here=`pwd`
 cd $LFS/sources
-tar xf coreutils-9.9.tar.xz
-cd coreutils-9.9
+tar xf coreutils-9.7.tar.xz
+cd coreutils-9.7
 
 time {
     ./configure --prefix=/usr                     \
@@ -21,4 +21,4 @@ sed -i 's/"1"/"8"/'                    $LFS/usr/share/man/man8/chroot.8
 
 cd $here
 
-echo "If complete, delete 'rm -rf $LFS/sources/coreutils-9.9'"
+echo "If complete, delete 'rm -rf $LFS/sources/coreutils-9.7'"
