@@ -1,8 +1,8 @@
 #! /bin/bash
 here=`pwd`
 cd /sources
-tar xf util-linux-2.41.2.tar.xz
-cd util-linux-2.41.2
+tar xf util-linux-2.41.1.tar.xz
+cd util-linux-2.41.1
 
 mkdir -pv /var/lib/hwclock
 
@@ -20,11 +20,11 @@ time {
             --disable-liblastlog2 \
             --without-python      \
             ADJTIME_PATH=/var/lib/hwclock/adjtime \
-            --docdir=/usr/share/doc/util-linux-2.41.2
+            --docdir=/usr/share/doc/util-linux-2.41.1
 
     make && make install
 }
 
 cd $here
 
-echo "If complete, delete 'rm -rf $LFS/sources/util-linux-2.41.2'"
+echo "If complete, delete 'rm -rf $LFS/sources/util-linux-2.41.1'"
