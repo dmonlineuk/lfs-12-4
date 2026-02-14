@@ -188,4 +188,8 @@ We start in the local copy of this github repo:
     Build & test M4
   08-13-install.sh:
     Install M4
+  08-14-build.sh:
+    Build & test Bc
+  08-14-install.sh:
+    Install Bc
 
