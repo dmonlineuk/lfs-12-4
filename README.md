@@ -12,7 +12,7 @@ In a terminal in the initial install of Ubuntu:
 ```bash
 # We need git to pull this repo, and optionally gdown for my sources repo in Google Drive (public link provided)
 # We may also want SSH for remote access to our VM
-sudo apt install git openssh-server tmux
+sudo apt install git openssh-server tmux htop
 
 sudo mkdir -v /lfs-project/
 sudo chmod 0777 /lfs-project/
