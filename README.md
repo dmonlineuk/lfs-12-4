@@ -178,4 +178,8 @@ We start in the local copy of this github repo:
     Build & test Zstd
   08-10-install.sh:
     Install Zstd
+  08-11-build.sh:
+    Build & test File
+  08-11-install.sh:
+    Install File
 
