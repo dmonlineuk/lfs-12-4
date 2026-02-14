@@ -174,3 +174,8 @@ We start in the local copy of this github repo:
     Build & test Lz4
   08-09-install.sh:
     Install Lz4
+  08-10-build.sh:
+    Build & test Zstd
+  08-10-install.sh:
+    Install Zstd
+
