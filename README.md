@@ -182,4 +182,6 @@ We start in the local copy of this github repo:
     Build & test File
   08-11-install.sh:
     Install File
+  08-12.sh:
+    Build & install Readline
 
