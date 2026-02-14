@@ -170,3 +170,7 @@ We start in the local copy of this github repo:
     Build & test xz
   08-08-install.sh:
     Install xz
+  08-09-build.sh:
+    Build & test Lz4
+  08-09-install.sh:
+    Install Lz4
