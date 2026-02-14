@@ -166,3 +166,7 @@ We start in the local copy of this github repo:
     Build Zlib
   08-07.sh:
     Build Bzip2
+  08-08-build.sh:
+    Build & test xz
+  08-08-install.sh:
+    Install xz
