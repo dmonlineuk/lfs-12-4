@@ -1,31 +1,25 @@
-# LFS 12.4-52 (17th December 2025)
+# LFS-12-4 
 
-Link: https://www.linuxfromscratch.org/lfs/view/development/index.html
+This repo last updated 14th February 2026, mnoved to stable from a developer version.
+
+Link: https://www.linuxfromscratch.org/lfs/view/stable/index.html
 
 ## Starting Point
 
-A machine with a single drive attached. Ubuntu live CD booted and installer canceled.
+Originally, started with a virtual machine with a single drive attached, Ubuntu live CD booted and installer canceled. I have now changed to a real machine with two drives attached, with a proper Ubuntu install on one of the drives. End-goal is hopefully two independent bootable drives, chosen between with my uefi boot menu.
 
-In a terminal:
+In a terminal in the initial install of Ubuntu:
 ```bash
 # We need git to pull this repo, and optionally gdown for my sources repo in Google Drive (public link provided)
 # We may also want SSH for remote access to our VM
-sudo apt install git gdown openssh-server tmux
+sudo apt install git openssh-server tmux
 
 sudo mkdir -v /lfs-project/
 sudo chmod 0777 /lfs-project/
 cd /lfs-project/
 
 # Scripts fro github. This includes scripts to download source, from er... source :-)
-git clone https://github.com/dmonlineuk/lfs-12.4-52.git
-
-# If the source links are broken or timing out, here's a copy of the sources to untar as you see fit:
-gdown https://drive.google.com/uc?id=1Qt6RYvtybG2zpCb1sQFMVAvAluECKyZs
-tar xf lfs-12.4-52-sources.tar
-
-# If recovering from backup, here's a copy of the backup to pull down:
-gdown https://drive.google.com/uc?id=1qzWZcwg_W_uBFsDdoVCNYYU0qQP7GSfe
-tar xf 
+git clone https://github.com/dmonlineuk/lfs-12-4.git
 
 # For SSH to work, password needs to be set for the ubuntu user
 passwd
@@ -34,7 +28,7 @@ passwd
 ## Structure
 
 We start in the local copy of this github repo:
-`cd \lfs-project\lfs-12.4-52\`
+`cd /lfs-project/lfs-12-4/`
 
 ```text
 02
@@ -158,3 +152,14 @@ We start in the local copy of this github repo:
     Backup the environment
   07-13-02-restore.sh:
 08
+  08-03.sh:
+    Build Man-pages
+  08-04.sh:
+    Install protocols and services from Iana-etc
+  08-05-build.sh:
+    Build Glibc
+  08-05-test.sh:
+    Test build of Glibc
+  08-05-install.sh:
+    Configure and install components from Glibc
+
