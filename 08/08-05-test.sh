@@ -2,6 +2,8 @@
 here=`pwd`
 cd /sources/glibc-2.42/build/
 
-make check
+time {
+    make check
+}
 
 cd $here
