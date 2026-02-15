@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd /sources/tcl8.6.16
+cd /sources/tcl8.6.16/unix
 
 time {
     make install
