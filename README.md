@@ -192,4 +192,8 @@ We start in the local copy of this github repo:
     Build & test Bc
   08-14-install.sh:
     Install Bc
+  08-15-build.sh:
+    Build & test Flex
+  08-15-install.sh:
+    Install Flex
 
