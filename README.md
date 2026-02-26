@@ -206,4 +206,8 @@ We start in the local copy of this github repo:
     Build & test Expect
   08-17-install.sh:
     Install Expect
+  08-18-build.sh:
+    Build & test DejaGNU
+  08-18-install.sh:
+    Install DejaGNU
 
