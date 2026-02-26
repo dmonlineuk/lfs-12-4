@@ -240,4 +240,8 @@ We start in the local copy of this github repo:
     Build & test Acl
   08-25-install.sh:
     Install Acl
+  08-26-build.sh:
+    Build & test Libcap
+  08-26-install.sh:
+    Install Libcap
 
