@@ -232,4 +232,8 @@ We start in the local copy of this github repo:
     Build & test mpc
   03-23-install.sh:
     Install mpc
+  08-24-build.sh:
+    Build & test Attr
+  08-24-install.sh:
+    Install Attr
 
