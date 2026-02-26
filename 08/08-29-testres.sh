@@ -1,6 +1,6 @@
 #! /bin/bash
 here=`pwd`
-cd /sources/cd shadow-4.18.0/build
+cd /sources/shadow-4.18.0/build
 
 ../contrib/test_summary
 
