@@ -248,4 +248,8 @@ We start in the local copy of this github repo:
     Build & test Libxcrypt
   08-27-install.sh:
     Install Libxcrypt
+  08-28-build.sh:
+    Build & install Shadow
+  08-28-config.sh:
+    Configure Shadow
 
