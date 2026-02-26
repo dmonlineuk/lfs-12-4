@@ -218,4 +218,10 @@ We start in the local copy of this github repo:
     Check for failed tests
   08-20-install.sh:
     Install Binutils
+  08-21-build.sh:
+    Build & test gmp
+  08-21-failed.sh:
+    Check for failed tests
+  08-21-install.sh:
+    Install gmp
 
