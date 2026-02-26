@@ -210,4 +210,6 @@ We start in the local copy of this github repo:
     Build & test DejaGNU
   08-18-install.sh:
     Install DejaGNU
+  08-19.sh:
+    Build & install Pkgconf
 
