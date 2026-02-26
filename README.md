@@ -236,4 +236,8 @@ We start in the local copy of this github repo:
     Build & test Attr
   08-24-install.sh:
     Install Attr
+  08-25-build.sh:
+    Build & test Acl
+  08-25-install.sh:
+    Install Acl
 
