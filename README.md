@@ -212,4 +212,10 @@ We start in the local copy of this github repo:
     Install DejaGNU
   08-19.sh:
     Build & install Pkgconf
+  08-20-build.sh:
+    Build & test Binutils
+  08-20-failed.sh:
+    Check for failed tests
+  08-20-install.sh:
+    Install Binutils
 
