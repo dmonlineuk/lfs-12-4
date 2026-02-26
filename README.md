@@ -252,4 +252,10 @@ We start in the local copy of this github repo:
     Build & install Shadow
   08-28-config.sh:
     Configure Shadow
+  08-29-build.sh:
+    Build & test GCC
+  08-29-testres.sh:
+    Check test results
+  08-29-install.sh:
+    Install GCC then perform sanity checks
 
