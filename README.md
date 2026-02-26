@@ -200,4 +200,10 @@ We start in the local copy of this github repo:
     Build & test Tcl
   08-16-install.sh:
     Install Tcl
+  08-17-pretest.sh:
+    Check PTYs are enabled
+  08-17-build.sh:
+    Build & test Expect
+  08-17-install.sh:
+    Install Expect
 

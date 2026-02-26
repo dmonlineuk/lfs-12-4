@@ -1,0 +1,3 @@
+#! /bin/bash
+python3 -c 'from pty import spawn; spawn(["echo", "ok"])'
+
