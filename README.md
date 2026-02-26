@@ -224,4 +224,8 @@ We start in the local copy of this github repo:
     Check for failed tests
   08-21-install.sh:
     Install gmp
+  08-22-build.sh:
+    Build & test mpfr
+  08-22-install.sh:
+    Install mpfr
 
