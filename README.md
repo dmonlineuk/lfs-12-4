@@ -228,4 +228,8 @@ We start in the local copy of this github repo:
     Build & test mpfr
   08-22-install.sh:
     Install mpfr
+  08-23-build.sh:
+    Build & test mpc
+  03-23-install.sh:
+    Install mpc
 
