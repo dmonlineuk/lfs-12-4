@@ -244,4 +244,8 @@ We start in the local copy of this github repo:
     Build & test Libcap
   08-26-install.sh:
     Install Libcap
+  08-27-build.sh:
+    Build & test Libxcrypt
+  08-27-install.sh:
+    Install Libxcrypt
 
