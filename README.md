@@ -268,4 +268,8 @@ We start in the local copy of this github repo:
     Build & test Psmisc
   08-32-install.sh:
     Install Psmisc
+  08-33-build.sh:
+    Build & test Gettext
+  08-33-install.sh:
+    Install Gettext
 
