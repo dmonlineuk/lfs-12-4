@@ -306,4 +306,8 @@ We start in the local copy of this github repo:
     Build & test Inetutils
   08-41-install.sh:
     Install Inetutils
+  08-42-build.sh:
+    Build & test Less
+  08-42-install.sh:
+    Install Less
 
