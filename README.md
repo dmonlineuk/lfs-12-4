@@ -286,4 +286,8 @@ We start in the local copy of this github repo:
     Test Bash (apparently optional)
   08-36-install.sh:
     Install Bash
+  08-37-build.sh:
+    Build & test Libtool
+  08-37-install.sh:
+    Install Libtool
 
