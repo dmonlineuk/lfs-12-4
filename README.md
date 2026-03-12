@@ -258,4 +258,6 @@ We start in the local copy of this github repo:
     Check test results
   08-29-install.sh:
     Install GCC then perform sanity checks
+  08-30.sh:
+    Build & install Ncurses
 
