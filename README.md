@@ -264,4 +264,8 @@ We start in the local copy of this github repo:
     Build & test Sed
   08-31-install.sh:
     Install Sed
+  08-32-build.sh:
+    Build & test Psmisc
+  08-31-install.sh:
+    Install Psmisc
 
