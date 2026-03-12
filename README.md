@@ -272,4 +272,8 @@ We start in the local copy of this github repo:
     Build & test Gettext
   08-33-install.sh:
     Install Gettext
+  08-34-build.sh:
+    Build & test Bison
+  08-34-install.sh:
+    Install Bison
 
