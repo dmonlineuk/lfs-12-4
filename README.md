@@ -260,4 +260,8 @@ We start in the local copy of this github repo:
     Install GCC then perform sanity checks
   08-30.sh:
     Build & install Ncurses
+  08-31-build.sh:
+    Build & test Sed
+  08-31-install.sh:
+    Install Sed
 
