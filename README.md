@@ -302,4 +302,8 @@ We start in the local copy of this github repo:
     Build & test Expat
   08-40-install.sh:
     Install Expat
+  08-41-build.sh:
+    Build & test Inetutils
+  08-41-install.sh:
+    Install Inetutils
 
