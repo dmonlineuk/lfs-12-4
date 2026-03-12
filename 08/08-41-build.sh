@@ -4,6 +4,8 @@ cd /sources
 tar xf inetutils-2.6.tar.xz
 cd inetutils-2.6
 
+sed -i 's/def HAVE_TERMCAP_TGETENT/ 1/' telnet/telnet.c
+
 time {
     ./configure --prefix=/usr        \
             --bindir=/usr/bin    \
