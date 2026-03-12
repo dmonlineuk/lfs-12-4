@@ -266,6 +266,6 @@ We start in the local copy of this github repo:
     Install Sed
   08-32-build.sh:
     Build & test Psmisc
-  08-31-install.sh:
+  08-32-install.sh:
     Install Psmisc
 
