@@ -294,4 +294,8 @@ We start in the local copy of this github repo:
     Build & test GDBM
   08-38-install.sh:
     Install GDBM
+  08-39-build.sh:
+    Build & test Gperf
+  08-39-install.sh:
+    Install Gperf
 
