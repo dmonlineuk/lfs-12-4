@@ -276,4 +276,8 @@ We start in the local copy of this github repo:
     Build & test Bison
   08-34-install.sh:
     Install Bison
+  08-35-build.sh:
+    Build & test Grep
+  08-35-install.sh:
+    Install Grep
 
