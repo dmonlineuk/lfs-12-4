@@ -298,4 +298,8 @@ We start in the local copy of this github repo:
     Build & test Gperf
   08-39-install.sh:
     Install Gperf
+  08-40-build.sh:
+    Build & test Expat
+  08-40-install.sh:
+    Install Expat
 
