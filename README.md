@@ -290,4 +290,8 @@ We start in the local copy of this github repo:
     Build & test Libtool
   08-37-install.sh:
     Install Libtool
+  08-38-build.sh:
+    Build & test GDBM
+  08-38-install.sh:
+    Install GDBM
 
