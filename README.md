@@ -280,4 +280,10 @@ We start in the local copy of this github repo:
     Build & test Grep
   08-35-install.sh:
     Install Grep
+  08-36-build.sh:
+    Build Bash
+  08-36-test.sh:
+    Test Bash (apparently optional)
+  08-36-install.sh:
+    Install Bash
 
