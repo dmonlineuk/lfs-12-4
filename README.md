@@ -318,4 +318,8 @@ We start in the local copy of this github repo:
     Build & test XML::Parser
   08-44-install.sh:
     Instal XML::Parser
+  08-45-build.sh:
+    Build & test Intltool
+  08-45-install.sh:
+    Install Intltool
 
