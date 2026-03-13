@@ -314,4 +314,8 @@ We start in the local copy of this github repo:
     Build & test Perl
   08-43-install.sh:
     Install Perl
+  08-44-build.sh:
+    Build & test XML::Parser
+  08-44-install.sh:
+    Instal XML::Parser
 
