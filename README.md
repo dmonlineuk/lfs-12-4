@@ -334,4 +334,8 @@ We start in the local copy of this github repo:
     Build & test OpenSSL
   08-48-install.sh:
     Install OpenSSL
+  08-49-build.sh:
+    Build & test Elfutils
+  08-49-install.sh:
+    Install Elfutils
 
