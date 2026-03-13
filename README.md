@@ -310,4 +310,8 @@ We start in the local copy of this github repo:
     Build & test Less
   08-42-install.sh:
     Install Less
+  08-43-build.sh:
+    Build & test Perl
+  08-43-install.sh:
+    Install Perl
 
