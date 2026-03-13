@@ -326,4 +326,8 @@ We start in the local copy of this github repo:
     Build & test Autoconf
   08-46-install.sh:
     Install Autoconf
+  08-47-build.sh:
+    Build & test Automake
+  08-47-install.sh:
+    Install Automake
 
