@@ -330,4 +330,8 @@ We start in the local copy of this github repo:
     Build & test Automake
   08-47-install.sh:
     Install Automake
+  08-48-build.sh:
+    Build & test OpenSSL
+  08-48-install.sh:
+    Install OpenSSL
 
