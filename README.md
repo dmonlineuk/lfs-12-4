@@ -322,4 +322,8 @@ We start in the local copy of this github repo:
     Build & test Intltool
   08-45-install.sh:
     Install Intltool
+  08-46-build.sh:
+    Build & test Autoconf
+  08-46-install.sh:
+    Install Autoconf
 
